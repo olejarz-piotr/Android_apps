@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="bundle">bundle</string>
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+
+</resources>
